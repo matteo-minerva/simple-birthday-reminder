@@ -24,8 +24,7 @@
 
 <a href="https://simple-birthday-reminder.vercel.app/"><img src="https://i.imgur.com/jonhYXJ.png"/></a>
 È un app realizzata come esercizio sul metodo useState. <br/>
-L'idea viene da un video di freeCodeCamp.org disponibile su <a href="L'idea viene da un video di FreeCodeCamp disponibile su  <a href="https://start2impact.it/">start2impact</a>.
-">YouTube</a>.
+L'idea viene da un video di freeCodeCamp.org disponibile su <a href="https://youtu.be/4UZrsTqkcW4">YouTube</a>.
 
 
 ### Realizzato con
